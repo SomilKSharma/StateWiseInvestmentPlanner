@@ -7,6 +7,6 @@ Sources for csv data could be:
 3. https://data.gov.in
 4. https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
 
-Our hypothetical variable for promoitng investment has no statistical correlation with real life examples.
-But has developed taking into consideration various factors that are focused upon by NITI Ayog in order
+Our hypothetical variable for promoting investment has no statistical justification with real life examples.
+But it has been developed taking into consideration various factors that are focused upon by NITI Ayog and DIIPT in order
 to promote investement in the states.
